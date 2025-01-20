@@ -1,0 +1,14 @@
+{
+    "name": "electron-app",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Gamo",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^33.2.1"
+    }
+}
